@@ -22,7 +22,8 @@ def bonus
 
   #code your solution here:
   
-  
+  epic_tragedy[:montague][:favorite_ice_cream_flavors]
+
 
   
 
